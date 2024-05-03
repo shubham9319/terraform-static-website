@@ -1,2 +1,3 @@
-# terraform-static-website
-AWS S3 static website hosting using Terraform
+# PROJECT: terraform-static-website 
+Using AWS S3 deploy static website
+
